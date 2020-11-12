@@ -1,4 +1,4 @@
-This is a simple server client course registration application that I wrote in my second year of University. 
+This is a simple server client course registration application that I wrote in my second year of University. The GUI is pretty simple. 
 The server accesses a locally hosted SQL server where course and user information is stored. 
 
 Author: Luke Hollinda
