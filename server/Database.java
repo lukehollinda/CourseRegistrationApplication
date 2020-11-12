@@ -41,7 +41,7 @@ public class Database {
 	{
 		try 
 		{
-			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/demoschema", "LukeHollinda", "D5rluhcp");
+			connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/demoschema", USERNAME, PASSWORD); //USERNAME and PASSWORD are placeholders 
 		
 			courseList = readCourseListSQL();
 		} 
